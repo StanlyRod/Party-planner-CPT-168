@@ -1,6 +1,7 @@
 import csv
 import sys
 
+#Author: Ramon Stanly Rodriguez
 """
 Party planner the final project of the CPT-168 class
 
